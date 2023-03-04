@@ -12,7 +12,7 @@ MentalCare.AI inspires and enables you to rewire your brain and see a better fut
 
 ## How to run MentalCare.AI app?
 
-Test run the Prototype on this Colab [notebook]()
+Test run the Prototype on this Colab [notebook](https://github.com/wjlgatech/MentalCareApp/blob/master/MentalCare_by_12xFuture%20(1).ipynb)
 
 ## Next Steps
 
