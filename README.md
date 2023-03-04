@@ -1,23 +1,21 @@
-# nbdev_colab
+# MentalCare.AI 
 
-### Why
-- to develop your package, to test code, to write documentation from 1 source of truth: your colab notebooks
-- no beefy local computer needed, everything is computed with a colab notebook and stored on your Google drive
+MentalCare.AI inspires and enables you to rewire your brain and see a better future!
 
-### How
+## What make MentalCare.AI unique?
 
-Step0: clone this template to your github account.
+- Instead of talking to a stranger, you will talk to the Future-You who is totally happy and productive, full of compassion and wisdom. 
+- You fast track your progress by following battle testing strategies S-WAVES to gain measurable results in days. Here S-WAVES = [Sympathizing, Wording, Visualization, Emotion, Social-Sharing]. 
+- You will be providing an understanding of why it works what you do 
+- Instead of being a consumer, You are given multiple opportunities to create and help others 
+- Your personally favored speakers and writers will be brought by AI to you to talk and walk with you
 
-Step1: create a new repo (e.g. name it 'my_amazing_project') using this template. 
+## How to run MentalCare.AI app?
 
-Step2: to clone your newly created repo in your Google drive, use colab to open this notebook [git_clone_my_amazing_project_to_gdrive.ipynb](https://github.com/wjlgatech/nbdev_colab/blob/master/git_clone_my_amazing_project_to_gdrive.ipynb) and run it through.
+Test run the Prototype on this Colab [notebook]()
 
-Step3: to learn what to do next, start at notebook `nb/00_core.ipynb` from your Google Drive
+## Next Steps
 
-
-Known bugs that need to be sorted (any help is welcome):
-
-* ReadMe not updating after updating `index.ipynb`
-* Tests are not passing
-
+- Seamlessly integrate the Conversation-chatbot and the Visualization-bot
+- Develop webapp
 
